@@ -3,3 +3,4 @@
 .venv/
 *.pyc
 .env
+test-result.txt
