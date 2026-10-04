@@ -1,4 +1,8 @@
-﻿# Production Document Intelligence RAG Platform
+# Production Document Intelligence RAG Platform
+
+![CI](https://github.com/Tirthanand17/document-intelligence-rag-platform/actions/workflows/tests.yml/badge.svg)
+
+![Document Intelligence RAG architecture](docs/architecture.png)
 
 Portfolio-grade AI/ML project combining Data Science, NLP, retrieval-augmented generation (RAG), deep-learning embeddings, OCR/PDF ingestion, evaluation, API delivery, testing, and automation.
 
